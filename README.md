@@ -32,7 +32,6 @@ Network-Intrusion-Detection-System.git
 │   ├── FFNN-Eval.ipynb
 │   ├── RF-Eval.ipynb
 │   └── Stacked-Eval.ipynb
-├── a.md
 ├── images
 │   ├── ae.png
 │   ├── dnn.png
