@@ -43,6 +43,15 @@ Network-Intrusion-Detection-System.git
 └── README.md
 ```
 
+## :rocket: Roadmap
+
+Para establecer la planificación temporal para las diferentes fases del proyecto, se decidió no comprometerse con ninguna metodología en concreto. Esto se debe a que la aplicación de metodologías de desarrollo ágiles, como Scrum, no se ajustaba al desarrollo de las fases. Por ello se decidió utilizar un marco personalizado, inspirado en características de diferentes metodologías de desarrollo ágiles. A continuación se muestra a grandes rasgos las diferentes fases realizadas:
+
+<center>
+<img src="images/roadmap.png" width="700" height="550">
+</center>
+<br>
+
 ## :books: Introducción
 
 Una de las primeras líneas de defensa de las organizaciones para detectar las posibles intrusiones en sus redes son los **NIDS** (*Network Intrusion Detection Systems*). En un intento de detectar ataques o comportamientos inusuales, estos sistemas tradicionalmente, inspeccionaban el contenido de cada paquete (el *payload*). Sin embargo, debido al gran aumento de tráfico en las redes de comunicaciones junto con el incremento y evolución de los ciberataques han levado a la introducción de estrategias más avanzadas como la detección de anomalías mediante el paradigma de **inspección basado en flujos** y **aprendizaje automático**.
