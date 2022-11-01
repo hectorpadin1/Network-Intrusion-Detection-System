@@ -70,7 +70,7 @@ A continuación se introducen las diferentes técnicas empleadas en el proyecto 
  * Técnicas Híbridas: *stacking* de los modelos ***Random Forest***, ***Autoencoder*** y ***Logistic Regression***.
 
 
-## :bar_chart: CSE-CIC-IDS-2018
+## :computer: CSE-CIC-IDS-2018
 
 Los conjuntos de datos CIC-IDS-2017 y CSE-CIC-IDS-2018 han utilizado el concepto de perfiles para generar los conjuntos de datos de forma ordenada y presentan un conocimiento profundo de los ataques realizados y sobre el conocimiento conceptual sobre los diferentes modelos de aplicación, dispositivos de red y protocolos. El tráfico de la red se capturó utilizando el CICFlowMeter que asigna una etiqueta al flujo y también da detalles sobre la dirección y el número de puerto de origen y destino, la marca de tiempo y el ataque. Las simulaciones del entorno de pruebas consisten en tráfico de red generado a partir de protocolos como HTTP, HTTPS, SSH, y protocolos de correo electrónico como SMTP y POP3.
 
